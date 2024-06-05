@@ -1,0 +1,757 @@
+﻿DATAFLOW,INDICATOR: Indicator,MUNICIPALITY: Municipality,FREQ: Frequency,TIME_PERIOD: Time period,OBS_VALUE,NOTE_INDICATOR: Note,OBS_STATUS: Observation status,DECIMALS: Decimals
+LU1:DF_C1600(1.0),M020: P10,C1100: Wormeldange,A: Annual,2023,1556.80004882813,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C220: Dippach,A: Annual,2023,2.23777413368225,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C900: Stadtbredimus,A: Annual,2023,2.60265612602234,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C330: Flaxweiler,A: Annual,2023,5408.60009765625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C1070: Wiltz,A: Annual,2023,2.50043082237244,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C440: Junglinster,A: Annual,2023,5.63057708740234,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C610: Mersch,A: Annual,2023,5.4967679977417,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C850: Schengen,A: Annual,2023,2.29984188079834,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C950: Troisvierges,A: Annual,2023,6.09688138961792,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C320: Fischbach,A: Annual,2023,11864.6298828125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C660: Mondorf-les-Bains,A: Annual,2023,10973.7197265625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C550: Leudelange,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C880: Schuttrange,A: Annual,2023,6516.91015625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C490: Kiischpelt,A: Annual,2023,9082.01953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C270: Erpeldange-sur-Sûre,A: Annual,2023,4.95540046691895,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C600: Manternach,A: Annual,2023,2.37170839309692,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C870: Schifflange,A: Annual,2023,8548.109375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C170: Consdorf,A: Annual,2023,2.3668007850647,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1020: Waldbillig,A: Annual,2023,2.33749485015869,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C930: Strassen,A: Annual,2023,2489.48999023438,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C060: Bettembourg,A: Annual,2023,5.49623250961304,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C1090: Winseler,A: Annual,2023,4327.1201171875,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C640: Mompach,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M010: Average,C980: Vallée de l'Ernz,A: Annual,2023,5105.6328125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C080: Betzdorf,A: Annual,2023,2374.615234375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C110: Boevange-sur-Attert,A: Annual,2023,,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C340: Frisange,A: Annual,2023,2.3196713924408,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C300: Ettelbruck,A: Annual,2023,5112.2548828125,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C600: Manternach,A: Annual,2023,6389.54736328125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C760: Reisdorf,A: Annual,2023,1223.5400390625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C280: Esch-sur-Alzette,A: Annual,2023,7937.65966796875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C780: Roeser,A: Annual,2023,5.2580304145813,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C390: Habscht,A: Annual,2023,2.1938841342926,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C590: Mamer,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C920: Steinsel,A: Annual,2023,5778.1298828125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C830: Sandweiler,A: Annual,2023,16281.9609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C230: Dudelange,A: Annual,2023,5.3607439994812,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C810: Rumelange,A: Annual,2023,4425.53466796875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C030: Beckerich,A: Annual,2023,4629.3603515625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C050: Bertrange,A: Annual,2023,2.60665202140808,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C380: Grosbous,A: Annual,2023,2050.88989257813,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C510: Kopstal,A: Annual,2023,3.2853364944458,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C680: Nommern,A: Annual,2023,2.14314246177673,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C130: Bourscheid,A: Annual,2023,5365.4736328125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C540: Lenningen,A: Annual,2023,5555.60986328125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C710: Préizerdaul,A: Annual,2023,4608.43017578125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C010: Beaufort,A: Annual,2023,2.22880387306213,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C560: Lintgen,A: Annual,2023,2.25572514533997,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C420: Hesperange,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C740: Reckange-sur-Mess,A: Annual,2023,12820.7802734375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C820: Saeul,A: Annual,2023,5.38054990768433,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C640: Mompach,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M020: P10,C250: Ell,A: Annual,2023,1914.93005371094,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C970: Useldange,A: Annual,2023,2346.8798828125,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C1050: Weiler-la-Tour,A: Annual,2023,6586.10009765625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C990: Vianden,A: Annual,2023,3.88713312149048,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C940: Tandel,A: Annual,2023,5257.3232421875,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C1100: Wormeldange,A: Annual,2023,2.55216383934021,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C670: Niederanven,A: Annual,2023,6939.27001953125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C090: Bissen,A: Annual,2023,2.36377644538879,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C300: Ettelbruck,A: Annual,2023,2.26492071151733,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C400: Heffingen,A: Annual,2023,5.53213787078857,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C130: Bourscheid,A: Annual,2023,2.16042828559875,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C720: Putscheid,A: Annual,2023,2.12069535255432,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1060: Weiswampach,A: Annual,2023,2.20983457565308,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C020: Bech,A: Annual,2023,5.2921781539917,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C570: Lorentzweiler,A: Annual,2023,5.84852743148804,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C740: Reckange-sur-Mess,A: Annual,2023,5.27467346191406,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C090: Bissen,A: Annual,2023,2.33613848686218,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C630: Mertzig,A: Annual,2023,2152.56005859375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C190: Dalheim,A: Annual,2023,10951.98046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C530: Larochette,A: Annual,2023,8541.6103515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C190: Dalheim,A: Annual,2023,6.54326152801514,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C700: Pétange,A: Annual,2023,7496.89990234375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C470: Kayl,A: Annual,2023,2.12452626228333,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C730: Rambrouch,A: Annual,2023,5522.5625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1010: Wahl,A: Annual,2023,2108.77978515625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C550: Leudelange,A: Annual,2023,2.93361306190491,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C890: Septfontaines,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C460: Käerjeng,A: Annual,2023,4911.0048828125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C500: Koerich,A: Annual,2023,5617.2353515625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C210: Differdange,A: Annual,2023,1604.63000488281,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C460: Käerjeng,A: Annual,2023,2141.669921875,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C800: Rosport-Mompach,A: Annual,2023,2023.06994628906,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C430: Hobscheid,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C1010: Wahl,A: Annual,2023,4873.208984375,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C150: Clervaux,A: Annual,2023,8496.48046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C910: Steinfort,A: Annual,2023,5.39710140228271,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C170: Consdorf,A: Annual,2023,5766.47509765625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C360: Goesdorf,A: Annual,2023,9995.8603515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C770: Remich,A: Annual,2023,5664.39892578125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C040: Berdorf,A: Annual,2023,1835.31005859375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C840: Sanem,A: Annual,2023,4547.3701171875,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C360: Goesdorf,A: Annual,2023,5.57969760894775,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C1030: Waldbredimus,A: Annual,2023,2.45932507514954,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C670: Niederanven,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C060: Bettembourg,A: Annual,2023,11291.4599609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C400: Heffingen,A: Annual,2023,12382.0302734375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C270: Erpeldange-sur-Sûre,A: Annual,2023,2.12433767318726,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C540: Lenningen,A: Annual,2023,13644.7998046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C910: Steinfort,A: Annual,2023,11875.080078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C010: Beaufort,A: Annual,2023,4845.1708984375,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C610: Mersch,A: Annual,2023,10951.98046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C480: Kehlen,A: Annual,2023,2.48215651512146,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C600: Manternach,A: Annual,2023,2.15402173995972,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C930: Strassen,A: Annual,2023,2.6988742351532,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C1070: Wiltz,A: Annual,2023,4384.732421875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C790: Rosport,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C050: Bertrange,A: Annual,2023,2.65850019454956,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C1080: Wincrange,A: Annual,2023,5.48424959182739,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C220: Dippach,A: Annual,2023,7353.24365234375,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C560: Lintgen,A: Annual,2023,6663.63330078125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C080: Betzdorf,A: Annual,2023,5932.31494140625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C520: Lac de la Haute-Sûre,A: Annual,2023,5.49638223648071,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C880: Schuttrange,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C870: Schifflange,A: Annual,2023,4.99871873855591,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C530: Larochette,A: Annual,2023,5.54977989196777,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C860: Schieren,A: Annual,2023,5881.0009765625,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C930: Strassen,A: Annual,2023,10628.8662109375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C130: Bourscheid,A: Annual,2023,1584.43994140625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C800: Rosport-Mompach,A: Annual,2023,4611.01171875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C070: Bettendorf,A: Annual,2023,8626.8603515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C320: Fischbach,A: Annual,2023,5.50884962081909,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C130: Bourscheid,A: Annual,2023,2.81318616867065,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C120: Boulaide,A: Annual,2023,1882.81005859375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C180: Contern,A: Annual,2023,5.65308618545532,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C590: Mamer,A: Annual,2023,2.54005980491638,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C810: Rumelange,A: Annual,2023,1386.4990234375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C290: Esch-sur-Sûre,A: Annual,2023,4292.9541015625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C750: Redange/Attert,A: Annual,2023,10564.759765625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C980: Vallée de l'Ernz,A: Annual,2023,2.39290356636047,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C940: Tandel,A: Annual,2023,2.14180302619934,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C330: Flaxweiler,A: Annual,2023,2260.44995117188,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1090: Winseler,A: Annual,2023,10799.8701171875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C640: Mompach,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M020: P10,C1020: Waldbillig,A: Annual,2023,2038.10998535156,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C820: Saeul,A: Annual,2023,2.64813137054443,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C860: Schieren,A: Annual,2023,4.40117931365967,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C250: Ell,A: Annual,2023,2.33955478668213,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C720: Putscheid,A: Annual,2023,5038.40234375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C340: Frisange,A: Annual,2023,2335.98999023438,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C240: Echternach,A: Annual,2023,3479.35986328125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C590: Mamer,A: Annual,2023,6236.56982421875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C750: Redange/Attert,A: Annual,2023,1803.38000488281,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C410: Helperknapp,A: Annual,2023,11341.759765625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C390: Habscht,A: Annual,2023,2.31858229637146,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C090: Bissen,A: Annual,2023,5835.4677734375,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C1000: Vichten,A: Annual,2023,4789.330078125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C770: Remich,A: Annual,2023,2.68612766265869,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C730: Rambrouch,A: Annual,2023,2.27847933769226,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C620: Mertert,A: Annual,2023,10291.890625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C140: Bous,A: Annual,2023,2.52077579498291,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C680: Nommern,A: Annual,2023,2267.21997070313,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C480: Kehlen,A: Annual,2023,14537.4501953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1070: Wiltz,A: Annual,2023,5.25536012649536,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C040: Berdorf,A: Annual,2023,2.42120909690857,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C380: Grosbous,A: Annual,2023,1.82967233657837,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C810: Rumelange,A: Annual,2023,2.189945936203,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C510: Kopstal,A: Annual,2023,11457.8896484375,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C350: Garnich,A: Annual,2023,2.45209503173828,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C200: Diekirch,A: Annual,2023,1766.06994628906,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C890: Septfontaines,A: Annual,2023,,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C930: Strassen,A: Annual,2023,6503.830078125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C200: Diekirch,A: Annual,2023,8847.830078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C430: Hobscheid,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M050: P90/P10,C660: Mondorf-les-Bains,A: Annual,2023,6.68253183364868,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C1000: Vichten,A: Annual,2023,4.22391510009766,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C650: Mondercange,A: Annual,2023,5.12961769104004,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C730: Rambrouch,A: Annual,2023,5.13355875015259,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C800: Rosport-Mompach,A: Annual,2023,2.27974057197571,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C470: Kayl,A: Annual,2023,1965.5400390625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C160: Colmar-Berg,A: Annual,2023,4461.47412109375,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C100: Biwer,A: Annual,2023,7.36140394210815,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C460: Käerjeng,A: Annual,2023,2.28442668914795,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C270: Erpeldange-sur-Sûre,A: Annual,2023,10951.98046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C850: Schengen,A: Annual,2023,6167.48876953125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C720: Putscheid,A: Annual,2023,4198.5849609375,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1060: Weiswampach,A: Annual,2023,5523.126953125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C580: Luxembourg,A: Annual,2023,5669.1650390625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C960: Tuntange,A: Annual,2023,,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M020: P10,C540: Lenningen,A: Annual,2023,2202.2900390625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1040: Walferdange,A: Annual,2023,13808.33984375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C690: Parc Hosingen,A: Annual,2023,2.60049343109131,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C180: Contern,A: Annual,2023,2.3925154209137,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1010: Wahl,A: Annual,2023,2.14036798477173,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C370: Grevenmacher,A: Annual,2023,4202.1953125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C310: Feulen,A: Annual,2023,3.88240766525269,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C820: Saeul,A: Annual,2023,6458.06494140625,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C840: Sanem,A: Annual,2023,5773.0458984375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C070: Bettendorf,A: Annual,2023,1870.33996582031,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C240: Echternach,A: Annual,2023,1475.89001464844,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C920: Steinsel,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C1050: Weiler-la-Tour,A: Annual,2023,2.23756241798401,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C290: Esch-sur-Sûre,A: Annual,2023,5344.86181640625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1010: Wahl,A: Annual,2023,10430.4609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C190: Dalheim,A: Annual,2023,4780.6298828125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C360: Goesdorf,A: Annual,2023,4528.0048828125,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C330: Flaxweiler,A: Annual,2023,2.22580313682556,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C220: Dippach,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C170: Consdorf,A: Annual,2023,4351.89990234375,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C1060: Weiswampach,A: Annual,2023,3942.580078125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C140: Bous,A: Annual,2023,11234.4697265625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C990: Vianden,A: Annual,2023,7039.71484375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C550: Leudelange,A: Annual,2023,2.57222938537598,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C870: Schifflange,A: Annual,2023,4127.75,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C1100: Wormeldange,A: Annual,2023,2.98616051673889,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C250: Ell,A: Annual,2023,6030.71630859375,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C650: Mondercange,A: Annual,2023,7515.92626953125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C890: Septfontaines,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C520: Lac de la Haute-Sûre,A: Annual,2023,2.1776020526886,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C310: Feulen,A: Annual,2023,9278.759765625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C980: Vallée de l'Ernz,A: Annual,2023,5.15733337402344,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C380: Grosbous,A: Annual,2023,2.28467655181885,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C530: Larochette,A: Annual,2023,2.49119925498962,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C210: Differdange,A: Annual,2023,3587.47998046875,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C960: Tuntange,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C480: Kehlen,A: Annual,2023,2.39338564872742,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C100: Biwer,A: Annual,2023,8023.8671875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C620: Mertert,A: Annual,2023,1874.32995605469,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C430: Hobscheid,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C500: Koerich,A: Annual,2023,2.2267415523529,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C110: Boevange-sur-Attert,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M050: P90/P10,C580: Luxembourg,A: Annual,2023,6.21162223815918,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C910: Steinfort,A: Annual,2023,2.36300539970398,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C930: Strassen,A: Annual,2023,2.61251497268677,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C1080: Wincrange,A: Annual,2023,2.61062502861023,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C1090: Winseler,A: Annual,2023,1608.03002929688,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C160: Colmar-Berg,A: Annual,2023,9343.9599609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C770: Remich,A: Annual,2023,1468.23999023438,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C840: Sanem,A: Annual,2023,9962.5302734375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C880: Schuttrange,A: Annual,2023,2.85288119316101,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C270: Erpeldange-sur-Sûre,A: Annual,2023,6099.154296875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C1040: Walferdange,A: Annual,2023,5810.669921875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1030: Waldbredimus,A: Annual,2023,12081.9501953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C940: Tandel,A: Annual,2023,5.33373308181763,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C390: Habscht,A: Annual,2023,2238.5,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C330: Flaxweiler,A: Annual,2023,12038.4794921875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C360: Goesdorf,A: Annual,2023,2.52753591537476,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C140: Bous,A: Annual,2023,6814.28076171875,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C650: Mondercange,A: Annual,2023,2.28328990936279,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C690: Parc Hosingen,A: Annual,2023,5161.66796875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C350: Garnich,A: Annual,2023,2383.06005859375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C900: Stadtbredimus,A: Annual,2023,1901.30004882813,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1090: Winseler,A: Annual,2023,6.71621179580688,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C1050: Weiler-la-Tour,A: Annual,2023,2582.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C800: Rosport-Mompach,A: Annual,2023,5896.82275390625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C320: Fischbach,A: Annual,2023,5308.68994140625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C180: Contern,A: Annual,2023,14713.060546875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C780: Roeser,A: Annual,2023,2.28413915634155,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C810: Rumelange,A: Annual,2023,5.58156394958496,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1070: Wiltz,A: Annual,2023,2.10178184509277,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C460: Käerjeng,A: Annual,2023,11218.830078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C850: Schengen,A: Annual,2023,6.0266056060791,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C970: Useldange,A: Annual,2023,6096.0703125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C740: Reckange-sur-Mess,A: Annual,2023,6292.25,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C920: Steinsel,A: Annual,2023,2.60351014137268,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C300: Ettelbruck,A: Annual,2023,4.86783123016357,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C390: Habscht,A: Annual,2023,5.08670091629028,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C1060: Weiswampach,A: Annual,2023,2.56827211380005,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C940: Tandel,A: Annual,2023,1718.61999511719,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C710: Préizerdaul,A: Annual,2023,9104.919921875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C230: Dudelange,A: Annual,2023,2.30401492118835,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C400: Heffingen,A: Annual,2023,2.47047638893127,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C1020: Waldbillig,A: Annual,2023,4987.06982421875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C880: Schuttrange,A: Annual,2023,18591.970703125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C680: Nommern,A: Annual,2023,2.34341168403625,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C490: Kiischpelt,A: Annual,2023,4314.8095703125,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C200: Diekirch,A: Annual,2023,2.34652614593506,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C370: Grevenmacher,A: Annual,2023,2.45628976821899,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C420: Hesperange,A: Annual,2023,9089.34375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C490: Kiischpelt,A: Annual,2023,1613.4599609375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C040: Berdorf,A: Annual,2023,4226.5,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C910: Steinfort,A: Annual,2023,5199.25,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C710: Préizerdaul,A: Annual,2023,4.16259145736694,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C950: Troisvierges,A: Annual,2023,2.66247129440308,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C520: Lac de la Haute-Sûre,A: Annual,2023,1700.02001953125,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C290: Esch-sur-Sûre,A: Annual,2023,8844.16015625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C1030: Waldbredimus,A: Annual,2023,2.08366966247559,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C520: Lac de la Haute-Sûre,A: Annual,2023,5459.47021484375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C110: Boevange-sur-Attert,A: Annual,2023,,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M040: P90,C010: Beaufort,A: Annual,2023,8747.49609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C750: Redange/Attert,A: Annual,2023,2.31167006492615,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C380: Grosbous,A: Annual,2023,5171.2041015625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C510: Kopstal,A: Annual,2023,2.93129515647888,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C040: Berdorf,A: Annual,2023,10233.240234375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C840: Sanem,A: Annual,2023,4.85316562652588,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C780: Roeser,A: Annual,2023,2.3019745349884,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C070: Bettendorf,A: Annual,2023,2.16047430038452,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C550: Leudelange,A: Annual,2023,12518.3310546875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C660: Mondorf-les-Bains,A: Annual,2023,1642.15002441406,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1080: Wincrange,A: Annual,2023,4860.1923828125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C110: Boevange-sur-Attert,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M060: P50/P10,C120: Boulaide,A: Annual,2023,2.35443305969238,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C790: Rosport,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C630: Mertzig,A: Annual,2023,4713.490234375,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C100: Biwer,A: Annual,2023,3.10801005363464,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C060: Bettembourg,A: Annual,2023,2.36191892623901,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C610: Mersch,A: Annual,2023,4629.43017578125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C670: Niederanven,A: Annual,2023,2.83574628829956,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C070: Bettendorf,A: Annual,2023,3993.0400390625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C700: Pétange,A: Annual,2023,4.42833185195923,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C810: Rumelange,A: Annual,2023,2.54872226715088,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C620: Mertert,A: Annual,2023,2.28296089172363,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C770: Remich,A: Annual,2023,2.4298357963562,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C570: Lorentzweiler,A: Annual,2023,12907.7001953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C580: Luxembourg,A: Annual,2023,15200.275390625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C390: Habscht,A: Annual,2023,6730.81640625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C150: Clervaux,A: Annual,2023,5.50746774673462,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C530: Larochette,A: Annual,2023,4781.525390625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C360: Goesdorf,A: Annual,2023,1791.46997070313,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C620: Mertert,A: Annual,2023,4508.1328125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C020: Bech,A: Annual,2023,11864.6396484375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1100: Wormeldange,A: Annual,2023,6814.83837890625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C510: Kopstal,A: Annual,2023,2234.27001953125,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C680: Nommern,A: Annual,2023,5.02226543426514,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C470: Kayl,A: Annual,2023,4181.2802734375,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C730: Rambrouch,A: Annual,2023,9556.8994140625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C220: Dippach,A: Annual,2023,2.21825432777405,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C540: Lenningen,A: Annual,2023,7944.55517578125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C500: Koerich,A: Annual,2023,2417.71997070313,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C590: Mamer,A: Annual,2023,15841.259765625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C540: Lenningen,A: Annual,2023,6.19573259353638,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C650: Mondercange,A: Annual,2023,2.24659061431885,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C690: Parc Hosingen,A: Annual,2023,5.49509620666504,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C080: Betzdorf,A: Annual,2023,2.37681746482849,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C760: Reisdorf,A: Annual,2023,2.17872285842896,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C010: Beaufort,A: Annual,2023,4.9021782875061,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C1090: Winseler,A: Annual,2023,6100.67333984375,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C140: Bous,A: Annual,2023,5.48732233047485,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C550: Leudelange,A: Annual,2023,7.54592609405518,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C120: Boulaide,A: Annual,2023,5129.7216796875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1070: Wiltz,A: Annual,2023,1357.91003417969,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C440: Junglinster,A: Annual,2023,13665.8603515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C520: Lac de la Haute-Sûre,A: Annual,2023,2.52405261993408,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C790: Rosport,A: Annual,2023,,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M060: P50/P10,C240: Echternach,A: Annual,2023,2.35746550559998,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C720: Putscheid,A: Annual,2023,8903.919921875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C410: Helperknapp,A: Annual,2023,4.99751472473145,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C350: Garnich,A: Annual,2023,2.12675309181213,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C400: Heffingen,A: Annual,2023,7433.720703125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C060: Bettembourg,A: Annual,2023,4780.6298828125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1000: Vichten,A: Annual,2023,9108.4501953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C130: Bourscheid,A: Annual,2023,6.07768726348877,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C800: Rosport-Mompach,A: Annual,2023,2.27921509742737,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C650: Mondercange,A: Annual,2023,2321.43994140625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C750: Redange/Attert,A: Annual,2023,4570.18505859375,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C910: Steinfort,A: Annual,2023,2.28399872779846,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C950: Troisvierges,A: Annual,2023,4723.3095703125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C200: Diekirch,A: Annual,2023,3770.60791015625,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C490: Kiischpelt,A: Annual,2023,2.10484838485718,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C680: Nommern,A: Annual,2023,6637.6162109375,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C660: Mondorf-les-Bains,A: Annual,2023,2.64342594146729,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C480: Kehlen,A: Annual,2023,6074.0107421875,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C210: Differdange,A: Annual,2023,2.06371831893921,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C170: Consdorf,A: Annual,2023,10300.080078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C1030: Waldbredimus,A: Annual,2023,5798.39990234375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1060: Weiswampach,A: Annual,2023,1535.10998535156,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C760: Reisdorf,A: Annual,2023,3500,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C280: Esch-sur-Alzette,A: Annual,2023,5.30092573165894,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C670: Niederanven,A: Annual,2023,12928.693359375,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C560: Lintgen,A: Annual,2023,5.15976667404175,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C970: Useldange,A: Annual,2023,4.48020792007446,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C630: Mertzig,A: Annual,2023,2.1896562576294,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C900: Stadtbredimus,A: Annual,2023,2.26592063903809,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C860: Schieren,A: Annual,2023,9827.1025390625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C250: Ell,A: Annual,2023,2.49309635162354,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C940: Tandel,A: Annual,2023,2.49030017852783,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C370: Grevenmacher,A: Annual,2023,1661.48596191406,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C090: Bissen,A: Annual,2023,1965.73999023438,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C640: Mompach,A: Annual,2023,,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C340: Frisange,A: Annual,2023,5159.27001953125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C030: Beckerich,A: Annual,2023,10242.9599609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C830: Sandweiler,A: Annual,2023,6.65365552902222,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C570: Lorentzweiler,A: Annual,2023,2207,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C730: Rambrouch,A: Annual,2023,4194.419921875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C470: Kayl,A: Annual,2023,8883.240234375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C030: Beckerich,A: Annual,2023,2.47308087348938,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C200: Diekirch,A: Annual,2023,2.13502740859985,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C370: Grevenmacher,A: Annual,2023,2.52917885780335,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C880: Schuttrange,A: Annual,2023,2.66314816474915,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C660: Mondorf-les-Bains,A: Annual,2023,2.5279815196991,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C830: Sandweiler,A: Annual,2023,2.65702557563782,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C180: Contern,A: Annual,2023,6149.6201171875,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C080: Betzdorf,A: Annual,2023,5.93781661987305,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C580: Luxembourg,A: Annual,2023,2.3167154788971,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C1090: Winseler,A: Annual,2023,2.69094491004944,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C130: Bourscheid,A: Annual,2023,9629.73046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C680: Nommern,A: Annual,2023,11386.580078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C630: Mertzig,A: Annual,2023,4.79472017288208,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C870: Schifflange,A: Annual,2023,2.07088828086853,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1040: Walferdange,A: Annual,2023,2.37637662887573,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C1070: Wiltz,A: Annual,2023,3395.36010742188,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C420: Hesperange,A: Annual,2023,5.88478088378906,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C780: Roeser,A: Annual,2023,2295.0048828125,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C950: Troisvierges,A: Annual,2023,1379.31994628906,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C350: Garnich,A: Annual,2023,5843.48974609375,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C280: Esch-sur-Alzette,A: Annual,2023,4812.40966796875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C850: Schengen,A: Annual,2023,11060.6298828125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C460: Käerjeng,A: Annual,2023,5.23835611343384,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C800: Rosport-Mompach,A: Annual,2023,5.19601917266846,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C1100: Wormeldange,A: Annual,2023,7.62117099761963,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C320: Fischbach,A: Annual,2023,6974.25,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1000: Vichten,A: Annual,2023,5438.17333984375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C060: Bettembourg,A: Annual,2023,2054.39990234375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C740: Reckange-sur-Mess,A: Annual,2023,2430.63012695313,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C960: Tuntange,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M020: P10,C230: Dudelange,A: Annual,2023,1799.78002929688,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C400: Heffingen,A: Annual,2023,2238.19995117188,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C010: Beaufort,A: Annual,2023,3977.10009765625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C520: Lac de la Haute-Sûre,A: Annual,2023,4290.93994140625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C250: Ell,A: Annual,2023,5.83273553848267,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C410: Helperknapp,A: Annual,2023,2.38766360282898,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C690: Parc Hosingen,A: Annual,2023,4229.26025390625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1020: Waldbillig,A: Annual,2023,11657.25,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C1050: Weiler-la-Tour,A: Annual,2023,2.55070543289185,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C900: Stadtbredimus,A: Annual,2023,4948.43017578125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C090: Bissen,A: Annual,2023,10855.0302734375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C640: Mompach,A: Annual,2023,,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C360: Goesdorf,A: Annual,2023,2.20756387710571,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C110: Boevange-sur-Attert,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M010: Average,C620: Mertert,A: Annual,2023,5891.26513671875,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C790: Rosport,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M040: P90,C300: Ettelbruck,A: Annual,2023,8329.2001953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C150: Clervaux,A: Annual,2023,2.21883606910706,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C490: Kiischpelt,A: Annual,2023,5156.78955078125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C050: Bertrange,A: Annual,2023,6378.66015625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C390: Habscht,A: Annual,2023,4911.009765625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C290: Esch-sur-Sûre,A: Annual,2023,5.85264158248901,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C710: Préizerdaul,A: Annual,2023,2.10688424110413,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C960: Tuntange,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M040: P90,C810: Rumelange,A: Annual,2023,7738.8330078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C120: Boulaide,A: Annual,2023,5.12940740585327,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C920: Steinsel,A: Annual,2023,2.36124420166016,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1000: Vichten,A: Annual,2023,1.90182137489319,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C700: Pétange,A: Annual,2023,1692.93994140625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C750: Redange/Attert,A: Annual,2023,2.53423285484314,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C430: Hobscheid,A: Annual,2023,,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C020: Bech,A: Annual,2023,2.11279249191284,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C070: Bettendorf,A: Annual,2023,4834.95263671875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C870: Schifflange,A: Annual,2023,1710.06005859375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C670: Niederanven,A: Annual,2023,9.45263862609863,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C190: Dalheim,A: Annual,2023,2.29090738296509,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C100: Biwer,A: Annual,2023,1664.01000976563,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C600: Manternach,A: Annual,2023,5235.759765625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1080: Wincrange,A: Annual,2023,1563.11999511719,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C600: Manternach,A: Annual,2023,11277.9404296875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C660: Mondorf-les-Bains,A: Annual,2023,6207.77783203125,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C830: Sandweiler,A: Annual,2023,9876.5146484375,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C140: Bous,A: Annual,2023,5160.91015625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C540: Lenningen,A: Annual,2023,2.5226514339447,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C870: Schifflange,A: Annual,2023,5138.06591796875,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1040: Walferdange,A: Annual,2023,8713.6640625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C530: Larochette,A: Annual,2023,1539.08996582031,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C770: Remich,A: Annual,2023,3943.8798828125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C220: Dippach,A: Annual,2023,5475.990234375,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C230: Dudelange,A: Annual,2023,2.3266966342926,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C410: Helperknapp,A: Annual,2023,6550.4501953125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C560: Lintgen,A: Annual,2023,4835.43994140625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C960: Tuntange,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M010: Average,C240: Echternach,A: Annual,2023,4907.3603515625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C980: Vallée de l'Ernz,A: Annual,2023,9018.009765625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C940: Tandel,A: Annual,2023,4279.8798828125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C500: Koerich,A: Annual,2023,5.17352342605591,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C160: Colmar-Berg,A: Annual,2023,1.98171043395996,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C330: Flaxweiler,A: Annual,2023,2.39270949363709,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C500: Koerich,A: Annual,2023,2.32336068153381,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C910: Steinfort,A: Annual,2023,2200.27001953125,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C330: Flaxweiler,A: Annual,2023,5.3257007598877,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C630: Mertzig,A: Annual,2023,2.18971371650696,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C430: Hobscheid,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M010: Average,C370: Grevenmacher,A: Annual,2023,5969.4775390625,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C700: Pétange,A: Annual,2023,4371.68798828125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C840: Sanem,A: Annual,2023,2.2152144908905,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C240: Echternach,A: Annual,2023,2.53029608726502,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C030: Beckerich,A: Annual,2023,5919.43994140625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C690: Parc Hosingen,A: Annual,2023,1626.32995605469,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1030: Waldbredimus,A: Annual,2023,2357.71997070313,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C880: Schuttrange,A: Annual,2023,7.59764528274536,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C100: Biwer,A: Annual,2023,2.36852645874023,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C480: Kehlen,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C720: Putscheid,A: Annual,2023,6.17497968673706,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C1060: Weiswampach,A: Annual,2023,5.67545652389526,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C620: Mertert,A: Annual,2023,2.40519690513611,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C100: Biwer,A: Annual,2023,5171.759765625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C780: Roeser,A: Annual,2023,5242.1103515625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C170: Consdorf,A: Annual,2023,6.22053146362305,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C140: Bous,A: Annual,2023,2047.34997558594,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C210: Differdange,A: Annual,2023,7403.5478515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1100: Wormeldange,A: Annual,2023,11864.6396484375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C790: Rosport,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C990: Vianden,A: Annual,2023,3517.6201171875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C560: Lintgen,A: Annual,2023,11060.6298828125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C420: Hesperange,A: Annual,2023,14400.470703125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C610: Mersch,A: Annual,2023,2.36572980880737,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C950: Troisvierges,A: Annual,2023,2.2899329662323,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C360: Goesdorf,A: Annual,2023,5815.24365234375,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1050: Weiler-la-Tour,A: Annual,2023,9876.9248046875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C770: Remich,A: Annual,2023,9582.98046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C080: Betzdorf,A: Annual,2023,2.49822163581848,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C400: Heffingen,A: Annual,2023,2.2393000125885,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1090: Winseler,A: Annual,2023,2.49585628509521,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C580: Luxembourg,A: Annual,2023,9399.1123046875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C320: Fischbach,A: Annual,2023,2153.73999023438,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C830: Sandweiler,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C050: Bertrange,A: Annual,2023,16957.669921875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C290: Esch-sur-Sûre,A: Annual,2023,2.84087133407593,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C910: Steinfort,A: Annual,2023,7148.2734375,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C370: Grevenmacher,A: Annual,2023,6.2123966217041,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C150: Clervaux,A: Annual,2023,2.48214268684387,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C020: Bech,A: Annual,2023,6969.1591796875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1040: Walferdange,A: Annual,2023,2371.19995117188,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C090: Bissen,A: Annual,2023,4646.56982421875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C440: Junglinster,A: Annual,2023,5932.330078125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C510: Kopstal,A: Annual,2023,9.63029098510742,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C640: Mompach,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M050: P90/P10,C160: Colmar-Berg,A: Annual,2023,4.15042686462402,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C830: Sandweiler,A: Annual,2023,2.50417447090149,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C160: Colmar-Berg,A: Annual,2023,5610.9892578125,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C300: Ettelbruck,A: Annual,2023,3677.47998046875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C650: Mondercange,A: Annual,2023,5215.3251953125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C700: Pétange,A: Annual,2023,2.15925550460815,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C970: Useldange,A: Annual,2023,2.16664266586304,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C760: Reisdorf,A: Annual,2023,7625.52978515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C110: Boevange-sur-Attert,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M020: P10,C270: Erpeldange-sur-Sûre,A: Annual,2023,2210.11010742188,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C960: Tuntange,A: Annual,2023,,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C860: Schieren,A: Annual,2023,4523.30908203125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C590: Mamer,A: Annual,2023,6.47356176376343,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C070: Bettendorf,A: Annual,2023,2.13492751121521,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C500: Koerich,A: Annual,2023,8049.572265625,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C570: Lorentzweiler,A: Annual,2023,7838.09765625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C380: Grosbous,A: Annual,2023,4.18020963668823,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C210: Differdange,A: Annual,2023,2.23570537567139,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C820: Saeul,A: Annual,2023,2090,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C890: Septfontaines,A: Annual,2023,,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C530: Larochette,A: Annual,2023,2.22775411605835,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C780: Roeser,A: Annual,2023,8047.09033203125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C420: Hesperange,A: Annual,2023,2.45977830886841,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C490: Kiischpelt,A: Annual,2023,2.67425894737244,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C610: Mersch,A: Annual,2023,1992.43994140625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C550: Leudelange,A: Annual,2023,18465.41015625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C320: Fischbach,A: Annual,2023,2.23494505882263,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C150: Clervaux,A: Annual,2023,4875.2275390625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C1040: Walferdange,A: Annual,2023,2.45051884651184,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C510: Kopstal,A: Annual,2023,6549.3046875,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C240: Echternach,A: Annual,2023,5.96508598327637,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C930: Strassen,A: Annual,2023,7.05084943771362,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C230: Dudelange,A: Annual,2023,5513.833984375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C190: Dalheim,A: Annual,2023,1673.78002929688,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C970: Useldange,A: Annual,2023,10514.509765625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C740: Reckange-sur-Mess,A: Annual,2023,2.0375509262085,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C920: Steinsel,A: Annual,2023,9524.259765625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C230: Dudelange,A: Annual,2023,4146.72021484375,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C310: Feulen,A: Annual,2023,4476.41015625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C030: Beckerich,A: Annual,2023,5.47195911407471,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C040: Berdorf,A: Annual,2023,5.57575559616089,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C280: Esch-sur-Alzette,A: Annual,2023,2.36842274665833,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C710: Préizerdaul,A: Annual,2023,5407.828125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C340: Frisange,A: Annual,2023,11967.810546875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C690: Parc Hosingen,A: Annual,2023,8936.83984375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1010: Wahl,A: Annual,2023,4.94620704650879,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C1080: Wincrange,A: Annual,2023,2.10074186325073,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C900: Stadtbredimus,A: Annual,2023,11212.75,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C480: Kehlen,A: Annual,2023,9074.6416015625,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C990: Vianden,A: Annual,2023,4463.63916015625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C580: Luxembourg,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C030: Beckerich,A: Annual,2023,1871.90002441406,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C600: Manternach,A: Annual,2023,2207.59008789063,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C620: Mertert,A: Annual,2023,5.49097061157227,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C570: Lorentzweiler,A: Annual,2023,2.49344348907471,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C460: Käerjeng,A: Annual,2023,6354.66259765625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C090: Bissen,A: Annual,2023,5.52210903167725,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C770: Remich,A: Annual,2023,6.52684879302979,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C340: Frisange,A: Annual,2023,2.20860099792481,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C710: Préizerdaul,A: Annual,2023,1.97570967674255,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C430: Hobscheid,A: Annual,2023,,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C530: Larochette,A: Annual,2023,3834.17993164063,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C850: Schengen,A: Annual,2023,4809.30029296875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C120: Boulaide,A: Annual,2023,9657.7001953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C070: Bettendorf,A: Annual,2023,4.61245584487915,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C630: Mertzig,A: Annual,2023,5921.48681640625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C350: Garnich,A: Annual,2023,12427.66015625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C600: Manternach,A: Annual,2023,5.10871124267578,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C060: Bettembourg,A: Annual,2023,2.32702016830444,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C080: Betzdorf,A: Annual,2023,8815.71484375,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C800: Rosport-Mompach,A: Annual,2023,10511.91015625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C670: Niederanven,A: Annual,2023,3.33338665962219,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C410: Helperknapp,A: Annual,2023,2269.47998046875,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C550: Leudelange,A: Annual,2023,6294.42578125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C790: Rosport,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M060: P50/P10,C720: Putscheid,A: Annual,2023,2.91177129745483,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C140: Bous,A: Annual,2023,2.1768388748169,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C740: Reckange-sur-Mess,A: Annual,2023,2.58873200416565,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C160: Colmar-Berg,A: Annual,2023,2.0943660736084,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C020: Bech,A: Annual,2023,5615.6201171875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C630: Mertzig,A: Annual,2023,10320.9228515625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C650: Mondercange,A: Annual,2023,11908.099609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C040: Berdorf,A: Annual,2023,2.30288052558899,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C820: Saeul,A: Annual,2023,11245.349609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C440: Junglinster,A: Annual,2023,9011.642578125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C050: Bertrange,A: Annual,2023,2447.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C380: Grosbous,A: Annual,2023,4685.6201171875,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C310: Feulen,A: Annual,2023,2.07281279563904,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C760: Reisdorf,A: Annual,2023,2.86055207252502,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C690: Parc Hosingen,A: Annual,2023,2.11309766769409,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C860: Schieren,A: Annual,2023,2.17254710197449,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C150: Clervaux,A: Annual,2023,3829.2509765625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C660: Mondorf-les-Bains,A: Annual,2023,4340.90185546875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C980: Vallée de l'Ernz,A: Annual,2023,4184.18310546875,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C020: Bech,A: Annual,2023,2.50482630729675,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C590: Mamer,A: Annual,2023,9598.2109375,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C110: Boevange-sur-Attert,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M030: Median,C250: Ell,A: Annual,2023,4774.10498046875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C950: Troisvierges,A: Annual,2023,8409.5498046875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1020: Waldbillig,A: Annual,2023,5.71963739395142,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C210: Differdange,A: Annual,2023,4366.81787109375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C560: Lintgen,A: Annual,2023,2143.6298828125,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C420: Hesperange,A: Annual,2023,6019.25,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C080: Betzdorf,A: Annual,2023,14100.029296875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C310: Feulen,A: Annual,2023,5542.08447265625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C570: Lorentzweiler,A: Annual,2023,5503.02978515625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C1080: Wincrange,A: Annual,2023,4080.72021484375,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C470: Kayl,A: Annual,2023,4.51949071884155,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C890: Septfontaines,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C540: Lenningen,A: Annual,2023,2.4560399055481,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C760: Reisdorf,A: Annual,2023,4202.1123046875,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C1010: Wahl,A: Annual,2023,5992.25634765625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C180: Contern,A: Annual,2023,2602.65991210938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C700: Pétange,A: Annual,2023,3655.48999023438,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C920: Steinsel,A: Annual,2023,6.14752292633057,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C990: Vianden,A: Annual,2023,1.94233119487762,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C580: Luxembourg,A: Annual,2023,2.68121933937073,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C280: Esch-sur-Alzette,A: Annual,2023,1497.41003417969,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C850: Schengen,A: Annual,2023,2.62044358253479,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C190: Dalheim,A: Annual,2023,2.85618758201599,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C270: Erpeldange-sur-Sûre,A: Annual,2023,2.33268022537231,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C990: Vianden,A: Annual,2023,2.00127196311951,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C670: Niederanven,A: Annual,2023,23131.26953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C050: Bertrange,A: Annual,2023,6.92978525161743,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C640: Mompach,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C120: Boulaide,A: Annual,2023,2.17861700057983,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C010: Beaufort,A: Annual,2023,1784.41003417969,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C780: Roeser,A: Annual,2023,12067.205078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C440: Junglinster,A: Annual,2023,2.30362439155579,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C350: Garnich,A: Annual,2023,9093.541015625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C250: Ell,A: Annual,2023,11169.2802734375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C750: Redange/Attert,A: Annual,2023,5.85831022262573,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C440: Junglinster,A: Annual,2023,2.4442253112793,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C610: Mersch,A: Annual,2023,2.32349801063538,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C220: Dippach,A: Annual,2023,4.96395254135132,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C030: Beckerich,A: Annual,2023,2.21260809898377,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C1050: Weiler-la-Tour,A: Annual,2023,14736.810546875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C730: Rambrouch,A: Annual,2023,1861.65197753906,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C980: Vallée de l'Ernz,A: Annual,2023,1748.57995605469,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C500: Koerich,A: Annual,2023,12508.130859375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C820: Saeul,A: Annual,2023,2.03182888031006,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C170: Consdorf,A: Annual,2023,1655.81994628906,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C830: Sandweiler,A: Annual,2023,6127.89013671875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1080: Wincrange,A: Annual,2023,8572.5400390625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C340: Frisange,A: Annual,2023,7144.1640625,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C890: Septfontaines,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M020: P10,C850: Schengen,A: Annual,2023,1835.30004882813,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C280: Esch-sur-Alzette,A: Annual,2023,3546.5,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1060: Weiswampach,A: Annual,2023,8712.4501953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C490: Kiischpelt,A: Annual,2023,5.62890911102295,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C890: Septfontaines,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M060: P50/P10,C1020: Waldbillig,A: Annual,2023,2.44690918922424,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C200: Diekirch,A: Annual,2023,5056.34130859375,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C340: Frisange,A: Annual,2023,5.12322854995728,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C900: Stadtbredimus,A: Annual,2023,6893.59912109375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C310: Feulen,A: Annual,2023,2389.94995117188,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C380: Grosbous,A: Annual,2023,8573.1494140625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C570: Lorentzweiler,A: Annual,2023,2.34556245803833,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C740: Reckange-sur-Mess,A: Annual,2023,8001.794921875,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C150: Clervaux,A: Annual,2023,1542.71997070313,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C1000: Vichten,A: Annual,2023,2156.39990234375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C810: Rumelange,A: Annual,2023,3533.80078125,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C460: Käerjeng,A: Annual,2023,2.29307270050049,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C970: Useldange,A: Annual,2023,5084.85009765625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C200: Diekirch,A: Annual,2023,5.00989770889282,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C410: Helperknapp,A: Annual,2023,2.09305644035339,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C880: Schuttrange,A: Annual,2023,10811.0087890625,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C350: Garnich,A: Annual,2023,5.21500062942505,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C320: Fischbach,A: Annual,2023,2.46487045288086,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C1000: Vichten,A: Annual,2023,2.22098422050476,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C420: Hesperange,A: Annual,2023,2.39240288734436,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C180: Contern,A: Annual,2023,9907.4716796875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C920: Steinsel,A: Annual,2023,15043.419921875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C950: Troisvierges,A: Annual,2023,3672.39990234375,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C220: Dippach,A: Annual,2023,12147.1396484375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C470: Kayl,A: Annual,2023,2.12729334831238,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C190: Dalheim,A: Annual,2023,6228.54931640625,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C270: Erpeldange-sur-Sûre,A: Annual,2023,4695.02001953125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C290: Esch-sur-Sûre,A: Annual,2023,1511.13989257813,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C860: Schieren,A: Annual,2023,2232.833984375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C120: Boulaide,A: Annual,2023,4432.9501953125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C840: Sanem,A: Annual,2023,2052.7900390625,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C970: Useldange,A: Annual,2023,2.06781125068665,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C040: Berdorf,A: Annual,2023,5377.19970703125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C390: Habscht,A: Annual,2023,11386.580078125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C300: Ettelbruck,A: Annual,2023,2.1492280960083,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C370: Grevenmacher,A: Annual,2023,10321.8095703125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C940: Tandel,A: Annual,2023,9166.66015625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1030: Waldbredimus,A: Annual,2023,5.12442111968994,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C430: Hobscheid,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M040: P90,C230: Dudelange,A: Annual,2023,9648.16015625,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1050: Weiler-la-Tour,A: Annual,2023,5.70736265182495,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C310: Feulen,A: Annual,2023,1.87301421165466,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C860: Schieren,A: Annual,2023,2.02581524848938,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C280: Esch-sur-Alzette,A: Annual,2023,2.23816704750061,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C680: Nommern,A: Annual,2023,5313.02978515625,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C510: Kopstal,A: Annual,2023,21516.669921875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C980: Vallée de l'Ernz,A: Annual,2023,2.15526175498962,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C1030: Waldbredimus,A: Annual,2023,7803.81884765625,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C020: Bech,A: Annual,2023,2241.919921875,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C590: Mamer,A: Annual,2023,2.54858660697937,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C960: Tuntange,A: Annual,2023,,,z: Not applicable,
+LU1:DF_C1600(1.0),M050: P90/P10,C480: Kehlen,A: Annual,2023,5.94075775146484,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C400: Heffingen,A: Annual,2023,5529.419921875,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C700: Pétange,A: Annual,2023,2.05086040496826,,,1: One
+LU1:DF_C1600(1.0),M030: Median,C1100: Wormeldange,A: Annual,2023,4648.85498046875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C930: Strassen,A: Annual,2023,17553.01953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C610: Mersch,A: Annual,2023,6399.58544921875,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C100: Biwer,A: Annual,2023,12249.4501953125,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C170: Consdorf,A: Annual,2023,2.62824463844299,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C750: Redange/Attert,A: Annual,2023,5879.37158203125,,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C1070: Wiltz,A: Annual,2023,7136.30615234375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C210: Differdange,A: Annual,2023,4.61386585235596,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C050: Bertrange,A: Annual,2023,10179.373046875,,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C820: Saeul,A: Annual,2023,5534.5947265625,,,0: Zero
+LU1:DF_C1600(1.0),M070: P90/P50,C290: Esch-sur-Sûre,A: Annual,2023,2.06015706062317,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C720: Putscheid,A: Annual,2023,1441.93505859375,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C240: Echternach,A: Annual,2023,8803.810546875,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C180: Contern,A: Annual,2023,2.36282134056091,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C870: Schifflange,A: Annual,2023,2.41380405426025,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C010: Beaufort,A: Annual,2023,2.19946599006653,,,1: One
+LU1:DF_C1600(1.0),M040: P90,C520: Lac de la Haute-Sûre,A: Annual,2023,9343.9599609375,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M040: P90,C790: Rosport,A: Annual,2023,,M40: the ninth decile (here referred to as P90) is the salary below which 90% of salaries are situated,z: Not applicable,
+LU1:DF_C1600(1.0),M070: P90/P50,C840: Sanem,A: Annual,2023,2.19083333015442,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C330: Flaxweiler,A: Annual,2023,7039.625,,,0: Zero
+LU1:DF_C1600(1.0),M060: P50/P10,C730: Rambrouch,A: Annual,2023,2.25306344032288,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C060: Bettembourg,A: Annual,2023,6266.126953125,,,0: Zero
+LU1:DF_C1600(1.0),M010: Average,C470: Kayl,A: Annual,2023,5240.9267578125,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C160: Colmar-Berg,A: Annual,2023,2251.32495117188,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C990: Vianden,A: Annual,2023,1811.03002929688,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C410: Helperknapp,A: Annual,2023,5418.7548828125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C900: Stadtbredimus,A: Annual,2023,5.89741230010986,,,1: One
+LU1:DF_C1600(1.0),M020: P10,C300: Ettelbruck,A: Annual,2023,1711.07006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M030: Median,C130: Bourscheid,A: Annual,2023,4457.32470703125,,,0: Zero
+LU1:DF_C1600(1.0),M050: P90/P10,C1040: Walferdange,A: Annual,2023,5.82335519790649,,,1: One
+LU1:DF_C1600(1.0),M070: P90/P50,C560: Lintgen,A: Annual,2023,2.28740930557251,,,1: One
+LU1:DF_C1600(1.0),M050: P90/P10,C760: Reisdorf,A: Annual,2023,6.23234987258911,,,1: One
+LU1:DF_C1600(1.0),M060: P50/P10,C1010: Wahl,A: Annual,2023,2.31091403961182,,,1: One
+LU1:DF_C1600(1.0),M010: Average,C1020: Waldbillig,A: Annual,2023,6762.7734375,,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C440: Junglinster,A: Annual,2023,2427.07983398438,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
+LU1:DF_C1600(1.0),M020: P10,C710: Préizerdaul,A: Annual,2023,2187.32006835938,M20: the first decile (here referred to as P10) is the salary below which 10% of salaries are situated,,0: Zero
